@@ -8,3 +8,8 @@ This project's goal is to replace fixed-timer traffic lights with a smart Reinfo
 This agent will watch traffic in real-time and make intelligent decisions to minimize vehicle wait times and prevent gridlock.
 Traffic congestion reduces mobility, increases fuel consumption, and contributes to pollution. Traditional fixed-time and actuated controllers cannot adapt optimally to dynamically-changing demand. 
 Reinforcement Learning provides a data-driven method to learn adaptive policies that minimize delays and queues by interacting with a traffic simulator.
+
+
+Dataset:
+https://www.kaggle.com/datasets/boukraailyesali/traffic-road-object-detection-dataset-using-yolo
+
